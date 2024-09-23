@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
-input_dim=6
+input_dim=9
 # 定义神经网络
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -66,7 +66,7 @@ import numpy as np
 best_val_loss = float('inf')
 best_model_state = None
 
-file='dataset1.txt'
+file='data.txt'
 X_train_val,y_train_val=process_file(file)
 X_train_val=np.array(X_train_val)
 y_train_val=np.array(y_train_val)
@@ -92,7 +92,7 @@ for fold, (train_idx, val_idx) in enumerate(kf.split(X_train_val)):
     optimizer = optim.Adam(model.parameters(), lr=0.001)
     
     # 训练模型
-    num_epochs = 2000
+    num_epochs = 5000
     for epoch in range(num_epochs):
         model.train()  # 训练模式
         outputs = model(X_train_fold)
