@@ -60,14 +60,14 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 from sklearn.model_selection import KFold
 import torch
-from data import predata
+from data import process_file
 import numpy as np
 
 best_val_loss = float('inf')
 best_model_state = None
 
 file='dataset1.txt'
-X_train_val,y_train_val=predata(file)
+X_train_val,y_train_val=process_file(file)
 X_train_val=np.array(X_train_val)
 y_train_val=np.array(y_train_val)
 kf = KFold(n_splits=5, shuffle=True, random_state=42)  # 5折交叉验证
