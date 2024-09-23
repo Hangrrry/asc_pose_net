@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
-input_dim=6
+input_dim=9
 # 定义神经网络
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -66,7 +66,7 @@ import numpy as np
 best_val_loss = float('inf')
 best_model_state = None
 
-file='dataset1.txt'
+file='data.txt'
 X_train_val,y_train_val=predata(file)
 X_train_val=np.array(X_train_val)
 y_train_val=np.array(y_train_val)
@@ -117,5 +117,5 @@ for fold, (train_idx, val_idx) in enumerate(kf.split(X_train_val)):
 
     print(f'Fold {fold + 1} completed with Val Loss: {val_loss.item():.4f}')
 
-torch.save(model.state_dict(), 'model1_last.pth')
-torch.save(best_model_state, 'model1_best.pth')
+torch.save(model.state_dict(), 'model_last.pth')
+torch.save(best_model_state, 'model_best.pth')
