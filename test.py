@@ -23,12 +23,12 @@ class PositionNet(nn.Module):
 model = PositionNet().to(device)
 
 # 加载保存的模型参数
-model.load_state_dict(torch.load('model_best.pth'))
+model.load_state_dict(torch.load('model_last.pth'))
 criterion = nn.MSELoss() 
 # 将模型设置为评估模式
 model.eval()
 print("模型已加载并准备好进行预测")
-x_,y_=process_file("data888/dataset45.txt")############################################
+x_,y_=process_file("dataddd/dataset45.txt")############################################
 x= torch.tensor(x_, dtype=torch.float32).to(device)
 y= torch.tensor(y_, dtype=torch.float32).to(device)
 with open('cleaned.txt', 'w') as file:

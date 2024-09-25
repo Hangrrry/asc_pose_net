@@ -66,7 +66,7 @@ for fold, (train_idx, val_idx) in enumerate(kf.split(X_train_val)):
     optimizer = optim.Adam(model.parameters(), lr=0.001)
     
     # 训练模型
-    num_epochs =5000
+    num_epochs =10000
     for epoch in range(num_epochs):
         model.train()  # 训练模式
         outputs = model(X_train_fold)
