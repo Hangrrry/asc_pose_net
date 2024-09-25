@@ -28,7 +28,7 @@ criterion = nn.MSELoss()
 # 将模型设置为评估模式
 model.eval()
 print("模型已加载并准备好进行预测")
-x_,y_=process_file("data777/dataset34.txt")############################################
+x_,y_=process_file("data888/dataset45.txt")############################################
 x= torch.tensor(x_, dtype=torch.float32).to(device)
 y= torch.tensor(y_, dtype=torch.float32).to(device)
 with open('cleaned.txt', 'w') as file:
@@ -37,7 +37,7 @@ with open('cleaned.txt', 'w') as file:
         out=model(x[i])
         val_loss = criterion(out, y[i])
         print(out,f'loss:{val_loss.item():.4f}')
-        if val_loss.item() <15:
+        if val_loss.item() <100:
             for j in y_[i]:
                 file.write(str(j)+' ')
             for j in x_[i]:
