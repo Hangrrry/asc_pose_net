@@ -28,46 +28,20 @@ model = PositionNet()
 criterion = nn.MSELoss()  # 使用均方误差作为损失函数
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-# # 模拟一些训练数据（示例）
-# # X_train 维度为 (N, 6)，表示 N 条训练数据，每条数据有 6 个特征
-# # y_train 维度为 (N, 2)，表示 N 条训练数据，每条数据的二维平面位置 (x, y)
-# X_train = torch.randn(1000, 6)  # 1000条示例数据，6个输入特征
-# y_train = torch.randn(1000, 2)  # 1000条示例数据，2个输出特征（物体二维平面位置）
-
-# # 训练模型
-# num_epochs = 1000
-# for epoch in range(num_epochs):
-#     # 前向传播
-#     outputs = model(X_train)
-#     loss = criterion(outputs, y_train)
-
-#     # 反向传播和优化
-#     optimizer.zero_grad()
-#     loss.backward()
-#     optimizer.step()
-
-#     if (epoch + 1) % 100 == 0:
-#         print(f'Epoch [{epoch + 1}/{num_epochs}], Loss: {loss.item():.4f}')
-
-# # 测试模型
-# # 输入新的相机位置、像素位置、速度方向，预测物体的二维平面位置
-# X_test = torch.tensor([[1.0, 2.0, 3.0, 400, 300, 0.5]])  # 示例输入
-# predicted_position = model(X_test)
-# print(f"Predicted 2D position: {predicted_position}")
 
 ############################################
 
 
 from sklearn.model_selection import KFold
 import torch
-from data import predata
+from data import process_file
 import numpy as np
 
 best_val_loss = float('inf')
 best_model_state = None
 
-file='data.txt'
-X_train_val,y_train_val=predata(file)
+file='data222/dataset34.txt'
+X_train_val,y_train_val=process_file(file)
 X_train_val=np.array(X_train_val)
 y_train_val=np.array(y_train_val)
 kf = KFold(n_splits=5, shuffle=True, random_state=42)  # 5折交叉验证
@@ -92,7 +66,7 @@ for fold, (train_idx, val_idx) in enumerate(kf.split(X_train_val)):
     optimizer = optim.Adam(model.parameters(), lr=0.001)
     
     # 训练模型
-    num_epochs = 2000
+    num_epochs =5000
     for epoch in range(num_epochs):
         model.train()  # 训练模式
         outputs = model(X_train_fold)

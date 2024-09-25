@@ -1,0 +1,2080 @@
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:46
+Classify num is:93
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:93
+Classify num is:46
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:93
+Classify num is:84
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+Classify num is:84
+Classify num is:93
+Classify num is:46
+the plane's yaw is: 1.897802994647298the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        200]
+ [          1]]the plane's yaw is: 1.897802994647298the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        200]
+ [          1]]the plane's yaw is: 1.897802994647298the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        200]
+ [          1]]the plane's yaw is: 1.9040649990227558the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9040649990227558the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9040649990227558the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9128391305592398the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        188]
+ [          1]]the plane's yaw is: 1.9128391305592398the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        188]
+ [          1]]the plane's yaw is: 1.9128391305592398the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        188]
+ [          1]]the plane's yaw is: 1.9105678657677514the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        184]
+ [          1]]the plane's yaw is: 1.9105678657677514the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        184]
+ [          1]]the plane's yaw is: 1.9105678657677514the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        184]
+ [          1]]the plane's yaw is: 1.9197995225575306the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        181]
+ [          1]]the plane's yaw is: 1.9197995225575306the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        181]
+ [          1]]the plane's yaw is: 1.9197995225575306the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        181]
+ [          1]]the plane's yaw is: 1.9116891483452656the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        177]
+ [          1]]the plane's yaw is: 1.9116891483452656the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        177]
+ [          1]]the plane's yaw is: 1.9116891483452656the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        177]
+ [          1]]the plane's yaw is: 1.9093231121685843the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        174]
+ [          1]]the plane's yaw is: 1.9093231121685843the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        174]
+ [          1]]the plane's yaw is: 1.9093231121685843the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        174]
+ [          1]]the plane's yaw is: 1.9044750491764884the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        170]
+ [          1]]the plane's yaw is: 1.9044750491764884the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        170]
+ [          1]]the plane's yaw is: 1.9044750491764884the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        170]
+ [          1]]the plane's yaw is: 1.906999991336141the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        169]
+ [          1]]the plane's yaw is: 1.906999991336141the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        169]
+ [          1]]the plane's yaw is: 1.906999991336141the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        169]
+ [          1]]the plane's yaw is: 1.9082018891957144the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        167]
+ [          1]]the plane's yaw is: 1.9082018891957144the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        167]
+ [          1]]the plane's yaw is: 1.9082018891957144the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        167]
+ [          1]]the plane's yaw is: 1.9181037108090262the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        164]
+ [          1]]the plane's yaw is: 1.9181037108090262the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        164]
+ [          1]]the plane's yaw is: 1.9181037108090262the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        164]
+ [          1]]the plane's yaw is: 1.9082491854813435the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        163]
+ [          1]]the plane's yaw is: 1.9082491854813435the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        163]
+ [          1]]the plane's yaw is: 1.9082491854813435the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        163]
+ [          1]]the plane's yaw is: 1.900970057645116the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        163]
+ [          1]]the plane's yaw is: 1.900970057645116the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        163]
+ [          1]]the plane's yaw is: 1.900970057645116the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        163]
+ [          1]]the plane's yaw is: 1.9072424630310876the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        161]
+ [          1]]the plane's yaw is: 1.9072424630310876the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        161]
+ [          1]]the plane's yaw is: 1.9072424630310876the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        161]
+ [          1]]the plane's yaw is: 1.9091646234181268the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        160]
+ [          1]]the plane's yaw is: 1.9091646234181268the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        160]
+ [          1]]the plane's yaw is: 1.9091646234181268the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        160]
+ [          1]]the plane's yaw is: 1.90881006518868the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.90881006518868the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.90881006518868the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.911643491187368the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.911643491187368the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.911643491187368the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.909974501529012the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.909974501529012the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.909974501529012the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.90976740519074the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        159]
+ [          1]]the plane's yaw is: 1.90976740519074the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        159]
+ [          1]]the plane's yaw is: 1.90976740519074the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        159]
+ [          1]]the plane's yaw is: 1.907532469430242the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.907532469430242the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.907532469430242the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.9038066724922997the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.9038066724922997the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.9038066724922997the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.9064267436650137the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.9064267436650137the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.9064267436650137the plane's position is: [0, 0, 25]the target in pixel is: [[        911]
+ [        158]
+ [          1]]the plane's yaw is: 1.9033062914994099the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        158]
+ [          1]]the plane's yaw is: 1.9033062914994099the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        158]
+ [          1]]the plane's yaw is: 1.9033062914994099the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        158]
+ [          1]]the plane's yaw is: 1.90580485860375the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.90580485860375the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.90580485860375the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9017238775875906the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9017238775875906the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9017238775875906the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9030430773880824the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9030430773880824the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9030430773880824the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9084840873864035the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9084840873864035the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9084840873864035the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        159]
+ [          1]]the plane's yaw is: 1.9038017849114277the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        160]
+ [          1]]the plane's yaw is: 1.9038017849114277the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        160]
+ [          1]]the plane's yaw is: 1.9038017849114277the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        160]
+ [          1]]the plane's yaw is: 1.901768402257238the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        161]
+ [          1]]the plane's yaw is: 1.901768402257238the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        161]
+ [          1]]the plane's yaw is: 1.901768402257238the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        161]
+ [          1]]the plane's yaw is: 1.9032310704377036the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        161]
+ [          1]]the plane's yaw is: 1.9032310704377036the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        161]
+ [          1]]the plane's yaw is: 1.9032310704377036the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        161]
+ [          1]]the plane's yaw is: 1.9028350273754935the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        162]
+ [          1]]the plane's yaw is: 1.9028350273754935the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        162]
+ [          1]]the plane's yaw is: 1.9028350273754935the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        162]
+ [          1]]the plane's yaw is: 1.9035711149361472the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        162]
+ [          1]]the plane's yaw is: 1.9035711149361472the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        162]
+ [          1]]the plane's yaw is: 1.9035711149361472the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        162]
+ [          1]]the plane's yaw is: 1.8976628045227868the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        165]
+ [          1]]the plane's yaw is: 1.8976628045227868the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        165]
+ [          1]]the plane's yaw is: 1.8976628045227868the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        165]
+ [          1]]the plane's yaw is: 1.8981070677426202the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        164]
+ [          1]]the plane's yaw is: 1.8981070677426202the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        164]
+ [          1]]the plane's yaw is: 1.8981070677426202the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        164]
+ [          1]]the plane's yaw is: 1.9007280925896504the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        166]
+ [          1]]the plane's yaw is: 1.9007280925896504the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        166]
+ [          1]]the plane's yaw is: 1.9007280925896504the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        166]
+ [          1]]the plane's yaw is: 1.9006750742581233the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        169]
+ [          1]]the plane's yaw is: 1.9006750742581233the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        169]
+ [          1]]the plane's yaw is: 1.9006750742581233the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        169]
+ [          1]]the plane's yaw is: 1.9014512757447106the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        171]
+ [          1]]the plane's yaw is: 1.9014512757447106the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        171]
+ [          1]]the plane's yaw is: 1.9014512757447106the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        171]
+ [          1]]the plane's yaw is: 1.9060138026860096the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        171]
+ [          1]]the plane's yaw is: 1.9060138026860096the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        171]
+ [          1]]the plane's yaw is: 1.9060138026860096the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        171]
+ [          1]]the plane's yaw is: 1.9047787646439411the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        173]
+ [          1]]the plane's yaw is: 1.9047787646439411the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        173]
+ [          1]]the plane's yaw is: 1.9047787646439411the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        173]
+ [          1]]the plane's yaw is: 1.9038497070458273the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        174]
+ [          1]]the plane's yaw is: 1.9038497070458273the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        174]
+ [          1]]the plane's yaw is: 1.9038497070458273the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        174]
+ [          1]]the plane's yaw is: 1.9075366119530535the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        175]
+ [          1]]the plane's yaw is: 1.9075366119530535the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        175]
+ [          1]]the plane's yaw is: 1.9075366119530535the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        175]
+ [          1]]the plane's yaw is: 1.8977487842228749the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        176]
+ [          1]]the plane's yaw is: 1.8977487842228749the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        176]
+ [          1]]the plane's yaw is: 1.8977487842228749the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        176]
+ [          1]]the plane's yaw is: 1.900166497626577the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        180]
+ [          1]]the plane's yaw is: 1.900166497626577the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        180]
+ [          1]]the plane's yaw is: 1.900166497626577the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        180]
+ [          1]]the plane's yaw is: 1.8997671763089041the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        182]
+ [          1]]the plane's yaw is: 1.8997671763089041the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        182]
+ [          1]]the plane's yaw is: 1.8997671763089041the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        182]
+ [          1]]the plane's yaw is: 1.8980742255833487the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        183]
+ [          1]]the plane's yaw is: 1.8980742255833487the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        183]
+ [          1]]the plane's yaw is: 1.8980742255833487the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        183]
+ [          1]]the plane's yaw is: 1.9039267162468774the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        183]
+ [          1]]the plane's yaw is: 1.9039267162468774the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        183]
+ [          1]]the plane's yaw is: 1.9039267162468774the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        183]
+ [          1]]the plane's yaw is: 1.9007561067726948the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        186]
+ [          1]]the plane's yaw is: 1.9007561067726948the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        186]
+ [          1]]the plane's yaw is: 1.9007561067726948the plane's position is: [0, 0, 25]the target in pixel is: [[        913]
+ [        186]
+ [          1]]the plane's yaw is: 1.9039709726956227the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        186]
+ [          1]]the plane's yaw is: 1.9039709726956227the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        186]
+ [          1]]the plane's yaw is: 1.9039709726956227the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        186]
+ [          1]]the plane's yaw is: 1.9041604856636858the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        186]
+ [          1]]the plane's yaw is: 1.9041604856636858the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        186]
+ [          1]]the plane's yaw is: 1.9041604856636858the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        186]
+ [          1]]the plane's yaw is: 1.9033354679730274the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        188]
+ [          1]]the plane's yaw is: 1.9033354679730274the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        188]
+ [          1]]the plane's yaw is: 1.9033354679730274the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        188]
+ [          1]]the plane's yaw is: 1.9028600017216546the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        189]
+ [          1]]the plane's yaw is: 1.9028600017216546the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        189]
+ [          1]]the plane's yaw is: 1.9028600017216546the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        189]
+ [          1]]the plane's yaw is: 1.9012206951763966the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        191]
+ [          1]]the plane's yaw is: 1.9012206951763966the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        191]
+ [          1]]the plane's yaw is: 1.9012206951763966the plane's position is: [0, 0, 25]the target in pixel is: [[        912]
+ [        191]
+ [          1]]the plane's yaw is: 1.9002849320557453the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        193]
+ [          1]]the plane's yaw is: 1.9002849320557453the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        193]
+ [          1]]the plane's yaw is: 1.9002849320557453the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        193]
+ [          1]]the plane's yaw is: 1.901300148167882the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        192]
+ [          1]]the plane's yaw is: 1.901300148167882the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        192]
+ [          1]]the plane's yaw is: 1.901300148167882the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        192]
+ [          1]]the plane's yaw is: 1.9031406799939017the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        193]
+ [          1]]the plane's yaw is: 1.9031406799939017the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        193]
+ [          1]]the plane's yaw is: 1.9031406799939017the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        193]
+ [          1]]the plane's yaw is: 1.9035411636021473the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        194]
+ [          1]]the plane's yaw is: 1.9035411636021473the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        194]
+ [          1]]the plane's yaw is: 1.9035411636021473the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        194]
+ [          1]]the plane's yaw is: 1.9042950431492665the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        195]
+ [          1]]the plane's yaw is: 1.9042950431492665the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        195]
+ [          1]]the plane's yaw is: 1.9042950431492665the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        195]
+ [          1]]the plane's yaw is: 1.902437643208776the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        195]
+ [          1]]the plane's yaw is: 1.902437643208776the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        195]
+ [          1]]the plane's yaw is: 1.902437643208776the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        195]
+ [          1]]the plane's yaw is: 1.9017427722599844the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        195]
+ [          1]]the plane's yaw is: 1.9017427722599844the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        195]
+ [          1]]the plane's yaw is: 1.9017427722599844the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        195]
+ [          1]]the plane's yaw is: 1.9003178934243063the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        196]
+ [          1]]the plane's yaw is: 1.9003178934243063the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        196]
+ [          1]]the plane's yaw is: 1.9003178934243063the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        196]
+ [          1]]the plane's yaw is: 1.903066680827413the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        195]
+ [          1]]the plane's yaw is: 1.903066680827413the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        195]
+ [          1]]the plane's yaw is: 1.903066680827413the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        195]
+ [          1]]the plane's yaw is: 1.9017877737667896the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9017877737667896the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9017877737667896the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9078751365330557the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.9078751365330557the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.9078751365330557the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.9040971259262898the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.9040971259262898the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.9040971259262898the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.899407223859106the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.899407223859106the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.899407223859106the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.895683572688375the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.895683572688375the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.895683572688375the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8946384052422387the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8946384052422387the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8946384052422387the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8920495072987418the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8920495072987418the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8920495072987418the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.892721549668584the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.892721549668584the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.892721549668584the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8953007916596274the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.8953007916596274the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.8953007916596274the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.8977523605015616the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.8977523605015616the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.8977523605015616the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.8990457812931876the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.8990457812931876the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.8990457812931876the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.9030855754998066the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.9030855754998066the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.9030855754998066the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        197]
+ [          1]]the plane's yaw is: 1.9005321721222739the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.9005321721222739the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.9005321721222739the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        196]
+ [          1]]the plane's yaw is: 1.899214075007711the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.899214075007711the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.899214075007711the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.901776717105184the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.901776717105184the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.901776717105184the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8993494967606406the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        196]
+ [          1]]the plane's yaw is: 1.8993494967606406the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        196]
+ [          1]]the plane's yaw is: 1.8993494967606406the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        196]
+ [          1]]the plane's yaw is: 1.9003981212761736the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9003981212761736the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9003981212761736the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9030976156380512the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9030976156380512the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9030976156380512the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.8916351954129083the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.8916351954129083the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.8916351954129083the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.887560115256582the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        194]
+ [          1]]the plane's yaw is: 1.887560115256582the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        194]
+ [          1]]the plane's yaw is: 1.887560115256582the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        194]
+ [          1]]the plane's yaw is: 1.893850759663854the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.893850759663854the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.893850759663854the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.8956704596665244the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8956704596665244the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8956704596665244the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8941903571274619the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8941903571274619the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8941903571274619the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8988566855576376the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8988566855576376the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8988566855576376the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8984924117710928the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8984924117710928the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.8984924117710928the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.9030680517342429the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        190]
+ [          1]]the plane's yaw is: 1.9030680517342429the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        190]
+ [          1]]the plane's yaw is: 1.9030680517342429the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        190]
+ [          1]]the plane's yaw is: 1.9039265672352648the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        190]
+ [          1]]the plane's yaw is: 1.9039265672352648the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        190]
+ [          1]]the plane's yaw is: 1.9039265672352648the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        190]
+ [          1]]the plane's yaw is: 1.8956519822266436the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        189]
+ [          1]]the plane's yaw is: 1.8956519822266436the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        189]
+ [          1]]the plane's yaw is: 1.8956519822266436the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        189]
+ [          1]]the plane's yaw is: 1.8945529917862753the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        188]
+ [          1]]the plane's yaw is: 1.8945529917862753the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        188]
+ [          1]]the plane's yaw is: 1.8945529917862753the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        188]
+ [          1]]the plane's yaw is: 1.9036194245007374the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        188]
+ [          1]]the plane's yaw is: 1.9036194245007374the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        188]
+ [          1]]the plane's yaw is: 1.9036194245007374the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        188]
+ [          1]]the plane's yaw is: 1.9041374186661582the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        187]
+ [          1]]the plane's yaw is: 1.9041374186661582the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        187]
+ [          1]]the plane's yaw is: 1.9041374186661582the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        187]
+ [          1]]the plane's yaw is: 1.8973201374199726the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.8973201374199726the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.8973201374199726the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.902320460477147the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        188]
+ [          1]]the plane's yaw is: 1.902320460477147the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        188]
+ [          1]]the plane's yaw is: 1.902320460477147the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        188]
+ [          1]]the plane's yaw is: 1.8935589949276785the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        187]
+ [          1]]the plane's yaw is: 1.8935589949276785the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        187]
+ [          1]]the plane's yaw is: 1.8935589949276785the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        187]
+ [          1]]the plane's yaw is: 1.8962330977108814the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.8962330977108814the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.8962330977108814the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.897990540662084the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.897990540662084the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.897990540662084the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        187]
+ [          1]]the plane's yaw is: 1.90460787812737the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        186]
+ [          1]]the plane's yaw is: 1.90460787812737the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        186]
+ [          1]]the plane's yaw is: 1.90460787812737the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        186]
+ [          1]]the plane's yaw is: 1.9051701883461813the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        186]
+ [          1]]the plane's yaw is: 1.9051701883461813the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        186]
+ [          1]]the plane's yaw is: 1.9051701883461813the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        186]
+ [          1]]the plane's yaw is: 1.9018818596985676the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        185]
+ [          1]]the plane's yaw is: 1.9018818596985676the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        185]
+ [          1]]the plane's yaw is: 1.9018818596985676the plane's position is: [0, 0, 25]the target in pixel is: [[        925]
+ [        185]
+ [          1]]the plane's yaw is: 1.8998147110131125the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        184]
+ [          1]]the plane's yaw is: 1.8998147110131125the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        184]
+ [          1]]the plane's yaw is: 1.8998147110131125the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        184]
+ [          1]]the plane's yaw is: 1.8913726667549946the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        183]
+ [          1]]the plane's yaw is: 1.8913726667549946the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        183]
+ [          1]]the plane's yaw is: 1.8913726667549946the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        183]
+ [          1]]the plane's yaw is: 1.8974980870869498the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        182]
+ [          1]]the plane's yaw is: 1.8974980870869498the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        182]
+ [          1]]the plane's yaw is: 1.8974980870869498the plane's position is: [0, 0, 25]the target in pixel is: [[        922]
+ [        182]
+ [          1]]the plane's yaw is: 1.8972151438382008the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        182]
+ [          1]]the plane's yaw is: 1.8972151438382008the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        182]
+ [          1]]the plane's yaw is: 1.8972151438382008the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        182]
+ [          1]]the plane's yaw is: 1.8946640650418143the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        180]
+ [          1]]the plane's yaw is: 1.8946640650418143the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        180]
+ [          1]]the plane's yaw is: 1.8946640650418143the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        180]
+ [          1]]the plane's yaw is: 1.8814459005978448the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        179]
+ [          1]]the plane's yaw is: 1.8814459005978448the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        179]
+ [          1]]the plane's yaw is: 1.8814459005978448the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        179]
+ [          1]]the plane's yaw is: 1.8821248273041586the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        177]
+ [          1]]the plane's yaw is: 1.8821248273041586the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        177]
+ [          1]]the plane's yaw is: 1.8821248273041586the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        177]
+ [          1]]the plane's yaw is: 1.8843190232899527the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        175]
+ [          1]]the plane's yaw is: 1.8843190232899527the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        175]
+ [          1]]the plane's yaw is: 1.8843190232899527the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        175]
+ [          1]]the plane's yaw is: 1.8916606465962273the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        174]
+ [          1]]the plane's yaw is: 1.8916606465962273the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        174]
+ [          1]]the plane's yaw is: 1.8916606465962273the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        174]
+ [          1]]the plane's yaw is: 1.9002503613617758the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.9002503613617758the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.9002503613617758the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.9024863402035572the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        171]
+ [          1]]the plane's yaw is: 1.9024863402035572the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        171]
+ [          1]]the plane's yaw is: 1.9024863402035572the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        171]
+ [          1]]the plane's yaw is: 1.9002853194859366the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        169]
+ [          1]]the plane's yaw is: 1.9002853194859366the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        169]
+ [          1]]the plane's yaw is: 1.9002853194859366the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        169]
+ [          1]]the plane's yaw is: 1.9013611833241324the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        169]
+ [          1]]the plane's yaw is: 1.9013611833241324the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        169]
+ [          1]]the plane's yaw is: 1.9013611833241324the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        169]
+ [          1]]the plane's yaw is: 1.8987684408810477the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        168]
+ [          1]]the plane's yaw is: 1.8987684408810477the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        168]
+ [          1]]the plane's yaw is: 1.8987684408810477the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        168]
+ [          1]]the plane's yaw is: 1.8993601957943778the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        165]
+ [          1]]the plane's yaw is: 1.8993601957943778the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        165]
+ [          1]]the plane's yaw is: 1.8993601957943778the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        165]
+ [          1]]the plane's yaw is: 1.9003787497666218the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        167]
+ [          1]]the plane's yaw is: 1.9003787497666218the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        167]
+ [          1]]the plane's yaw is: 1.9003787497666218the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        167]
+ [          1]]the plane's yaw is: 1.897677050032888the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        168]
+ [          1]]the plane's yaw is: 1.897677050032888the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        168]
+ [          1]]the plane's yaw is: 1.897677050032888the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        168]
+ [          1]]the plane's yaw is: 1.9023728231575823the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        170]
+ [          1]]the plane's yaw is: 1.9023728231575823the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        170]
+ [          1]]the plane's yaw is: 1.9023728231575823the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        170]
+ [          1]]the plane's yaw is: 1.898046271004949the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        171]
+ [          1]]the plane's yaw is: 1.898046271004949the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        171]
+ [          1]]the plane's yaw is: 1.898046271004949the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        171]
+ [          1]]the plane's yaw is: 1.8986952165749413the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        172]
+ [          1]]the plane's yaw is: 1.8986952165749413the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        172]
+ [          1]]the plane's yaw is: 1.8986952165749413the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        172]
+ [          1]]the plane's yaw is: 1.900398776927267the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        172]
+ [          1]]the plane's yaw is: 1.900398776927267the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        172]
+ [          1]]the plane's yaw is: 1.900398776927267the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        172]
+ [          1]]the plane's yaw is: 1.8995539108898976the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.8995539108898976the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.8995539108898976the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.9046089212086537the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        173]
+ [          1]]the plane's yaw is: 1.9046089212086537the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        173]
+ [          1]]the plane's yaw is: 1.9046089212086537the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        173]
+ [          1]]the plane's yaw is: 1.8987033824112753the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.8987033824112753the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.8987033824112753the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.8967651585724692the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.8967651585724692the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.8967651585724692the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.902442948022161the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.902442948022161the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.902442948022161the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        173]
+ [          1]]the plane's yaw is: 1.899698988595281the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        174]
+ [          1]]the plane's yaw is: 1.899698988595281the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        174]
+ [          1]]the plane's yaw is: 1.899698988595281the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        174]
+ [          1]]the plane's yaw is: 1.8910548547890524the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        174]
+ [          1]]the plane's yaw is: 1.8910548547890524the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        174]
+ [          1]]the plane's yaw is: 1.8910548547890524the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        174]
+ [          1]]the plane's yaw is: 1.8921922306206564the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        174]
+ [          1]]the plane's yaw is: 1.8921922306206564the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        174]
+ [          1]]the plane's yaw is: 1.8921922306206564the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        174]
+ [          1]]the plane's yaw is: 1.892832533517156the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        176]
+ [          1]]the plane's yaw is: 1.892832533517156the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        176]
+ [          1]]the plane's yaw is: 1.892832533517156the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        176]
+ [          1]]the plane's yaw is: 1.8989601294186453the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        177]
+ [          1]]the plane's yaw is: 1.8989601294186453the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        177]
+ [          1]]the plane's yaw is: 1.8989601294186453the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        177]
+ [          1]]the plane's yaw is: 1.8941072980549671the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        179]
+ [          1]]the plane's yaw is: 1.8941072980549671the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        179]
+ [          1]]the plane's yaw is: 1.8941072980549671the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        179]
+ [          1]]the plane's yaw is: 1.8958850065853932the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        181]
+ [          1]]the plane's yaw is: 1.8958850065853932the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        181]
+ [          1]]the plane's yaw is: 1.8958850065853932the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        181]
+ [          1]]the plane's yaw is: 1.8898974815991265the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        182]
+ [          1]]the plane's yaw is: 1.8898974815991265the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        182]
+ [          1]]the plane's yaw is: 1.8898974815991265the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        182]
+ [          1]]the plane's yaw is: 1.8864033977177481the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        183]
+ [          1]]the plane's yaw is: 1.8864033977177481the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        183]
+ [          1]]the plane's yaw is: 1.8864033977177481the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        183]
+ [          1]]the plane's yaw is: 1.8857987383988242the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        183]
+ [          1]]the plane's yaw is: 1.8857987383988242the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        183]
+ [          1]]the plane's yaw is: 1.8857987383988242the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        183]
+ [          1]]the plane's yaw is: 1.8859670321133475the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        183]
+ [          1]]the plane's yaw is: 1.8859670321133475the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        183]
+ [          1]]the plane's yaw is: 1.8859670321133475the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        183]
+ [          1]]the plane's yaw is: 1.8918761471894128the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        184]
+ [          1]]the plane's yaw is: 1.8918761471894128the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        184]
+ [          1]]the plane's yaw is: 1.8918761471894128the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        184]
+ [          1]]the plane's yaw is: 1.8997353772309167the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        185]
+ [          1]]the plane's yaw is: 1.8997353772309167the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        185]
+ [          1]]the plane's yaw is: 1.8997353772309167the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        185]
+ [          1]]the plane's yaw is: 1.9016540805485587the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        186]
+ [          1]]the plane's yaw is: 1.9016540805485587the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        186]
+ [          1]]the plane's yaw is: 1.9016540805485587the plane's position is: [0, 0, 25]the target in pixel is: [[        914]
+ [        186]
+ [          1]]the plane's yaw is: 1.8991890410569052the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        186]
+ [          1]]the plane's yaw is: 1.8991890410569052the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        186]
+ [          1]]the plane's yaw is: 1.8991890410569052the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        186]
+ [          1]]the plane's yaw is: 1.8921411196377613the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        187]
+ [          1]]the plane's yaw is: 1.8921411196377613the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        187]
+ [          1]]the plane's yaw is: 1.8921411196377613the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        187]
+ [          1]]the plane's yaw is: 1.8898369232800345the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        188]
+ [          1]]the plane's yaw is: 1.8898369232800345the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        188]
+ [          1]]the plane's yaw is: 1.8898369232800345the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        188]
+ [          1]]the plane's yaw is: 1.892794088521276the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        189]
+ [          1]]the plane's yaw is: 1.892794088521276the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        189]
+ [          1]]the plane's yaw is: 1.892794088521276the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        189]
+ [          1]]the plane's yaw is: 1.896531865992818the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        193]
+ [          1]]the plane's yaw is: 1.896531865992818the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        193]
+ [          1]]the plane's yaw is: 1.896531865992818the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        193]
+ [          1]]the plane's yaw is: 1.8979024151947834the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        196]
+ [          1]]the plane's yaw is: 1.8979024151947834the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        196]
+ [          1]]the plane's yaw is: 1.8979024151947834the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        196]
+ [          1]]the plane's yaw is: 1.9066989282753806the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        196]
+ [          1]]the plane's yaw is: 1.9066989282753806the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        196]
+ [          1]]the plane's yaw is: 1.9066989282753806the plane's position is: [0, 0, 25]the target in pixel is: [[        915]
+ [        196]
+ [          1]]the plane's yaw is: 1.909470395245824the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        198]
+ [          1]]the plane's yaw is: 1.909470395245824the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        198]
+ [          1]]the plane's yaw is: 1.909470395245824the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        198]
+ [          1]]the plane's yaw is: 1.9085653881218771the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        200]
+ [          1]]the plane's yaw is: 1.9085653881218771the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        200]
+ [          1]]the plane's yaw is: 1.9085653881218771the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        200]
+ [          1]]the plane's yaw is: 1.9043586115029194the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        199]
+ [          1]]the plane's yaw is: 1.9043586115029194the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        199]
+ [          1]]the plane's yaw is: 1.9043586115029194the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        199]
+ [          1]]the plane's yaw is: 1.905021176734243the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        200]
+ [          1]]the plane's yaw is: 1.905021176734243the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        200]
+ [          1]]the plane's yaw is: 1.905021176734243the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        200]
+ [          1]]the plane's yaw is: 1.906538919606481the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        200]
+ [          1]]the plane's yaw is: 1.906538919606481the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        200]
+ [          1]]the plane's yaw is: 1.906538919606481the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        200]
+ [          1]]the plane's yaw is: 1.9084638516095023the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        202]
+ [          1]]the plane's yaw is: 1.9084638516095023the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        202]
+ [          1]]the plane's yaw is: 1.9084638516095023the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        202]
+ [          1]]the plane's yaw is: 1.903141842284475the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        202]
+ [          1]]the plane's yaw is: 1.903141842284475the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        202]
+ [          1]]the plane's yaw is: 1.903141842284475the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        202]
+ [          1]]the plane's yaw is: 1.8955073813584193the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        203]
+ [          1]]the plane's yaw is: 1.8955073813584193the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        203]
+ [          1]]the plane's yaw is: 1.8955073813584193the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        203]
+ [          1]]the plane's yaw is: 1.8965055207398274the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        204]
+ [          1]]the plane's yaw is: 1.8965055207398274the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        204]
+ [          1]]the plane's yaw is: 1.8965055207398274the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        204]
+ [          1]]the plane's yaw is: 1.897770539918218the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        206]
+ [          1]]the plane's yaw is: 1.897770539918218the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        206]
+ [          1]]the plane's yaw is: 1.897770539918218the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        206]
+ [          1]]the plane's yaw is: 1.9028603295472004the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        207]
+ [          1]]the plane's yaw is: 1.9028603295472004the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        207]
+ [          1]]the plane's yaw is: 1.9028603295472004the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        207]
+ [          1]]the plane's yaw is: 1.9024140397694447the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        207]
+ [          1]]the plane's yaw is: 1.9024140397694447the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        207]
+ [          1]]the plane's yaw is: 1.9024140397694447the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        207]
+ [          1]]the plane's yaw is: 1.908071414628301the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        207]
+ [          1]]the plane's yaw is: 1.908071414628301the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        207]
+ [          1]]the plane's yaw is: 1.908071414628301the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        207]
+ [          1]]the plane's yaw is: 1.9135651747372486the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        207]
+ [          1]]the plane's yaw is: 1.9135651747372486the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        207]
+ [          1]]the plane's yaw is: 1.9135651747372486the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        207]
+ [          1]]the plane's yaw is: 1.9079603413727622the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        206]
+ [          1]]the plane's yaw is: 1.9079603413727622the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        206]
+ [          1]]the plane's yaw is: 1.9079603413727622the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        206]
+ [          1]]the plane's yaw is: 1.906579242148672the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        205]
+ [          1]]the plane's yaw is: 1.906579242148672the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        205]
+ [          1]]the plane's yaw is: 1.906579242148672the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        205]
+ [          1]]the plane's yaw is: 1.9027716974404194the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        205]
+ [          1]]the plane's yaw is: 1.9027716974404194the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        205]
+ [          1]]the plane's yaw is: 1.9027716974404194the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        205]
+ [          1]]the plane's yaw is: 1.905375734963689the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        201]
+ [          1]]the plane's yaw is: 1.905375734963689the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        201]
+ [          1]]the plane's yaw is: 1.905375734963689the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        201]
+ [          1]]the plane's yaw is: 1.9077566126969199the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        201]
+ [          1]]the plane's yaw is: 1.9077566126969199the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        201]
+ [          1]]the plane's yaw is: 1.9077566126969199the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        201]
+ [          1]]the plane's yaw is: 1.9025633792069296the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        199]
+ [          1]]the plane's yaw is: 1.9025633792069296the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        199]
+ [          1]]the plane's yaw is: 1.9025633792069296the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        199]
+ [          1]]the plane's yaw is: 1.9082636992123465the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        197]
+ [          1]]the plane's yaw is: 1.9082636992123465the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        197]
+ [          1]]the plane's yaw is: 1.9082636992123465the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        197]
+ [          1]]the plane's yaw is: 1.907534644999776the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        196]
+ [          1]]the plane's yaw is: 1.907534644999776the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        196]
+ [          1]]the plane's yaw is: 1.907534644999776the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        196]
+ [          1]]the plane's yaw is: 1.9111898998406271the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        195]
+ [          1]]the plane's yaw is: 1.9111898998406271the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        195]
+ [          1]]the plane's yaw is: 1.9111898998406271the plane's position is: [0, 0, 25]the target in pixel is: [[        924]
+ [        195]
+ [          1]]the plane's yaw is: 1.9084526757386069the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        194]
+ [          1]]the plane's yaw is: 1.9084526757386069the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        194]
+ [          1]]the plane's yaw is: 1.9084526757386069the plane's position is: [0, 0, 25]the target in pixel is: [[        923]
+ [        194]
+ [          1]]the plane's yaw is: 1.90773139993218the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.90773139993218the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.90773139993218the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.8911141912129266the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        193]
+ [          1]]the plane's yaw is: 1.8911141912129266the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        193]
+ [          1]]the plane's yaw is: 1.8911141912129266the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        193]
+ [          1]]the plane's yaw is: 1.8995020250466204the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.8995020250466204the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.8995020250466204the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.9046715358879904the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.9046715358879904the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.9046715358879904the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.91336648265389the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.91336648265389the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.91336648265389the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.9244347075608113the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.9244347075608113the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.9244347075608113the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        191]
+ [          1]]the plane's yaw is: 1.917982385554586the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        190]
+ [          1]]the plane's yaw is: 1.917982385554586the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        190]
+ [          1]]the plane's yaw is: 1.917982385554586the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        190]
+ [          1]]the plane's yaw is: 1.912660584845815the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        189]
+ [          1]]the plane's yaw is: 1.912660584845815the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        189]
+ [          1]]the plane's yaw is: 1.912660584845815the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        189]
+ [          1]]the plane's yaw is: 1.907128051915441the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.907128051915441the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.907128051915441the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.887564049163137the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.887564049163137the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.887564049163137the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.876810894408498the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        186]
+ [          1]]the plane's yaw is: 1.876810894408498the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        186]
+ [          1]]the plane's yaw is: 1.876810894408498the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        186]
+ [          1]]the plane's yaw is: 1.8800680796292166the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.8800680796292166the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.8800680796292166the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.8854879001763205the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.8854879001763205the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.8854879001763205the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.8864617208626608the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        188]
+ [          1]]the plane's yaw is: 1.8864617208626608the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        188]
+ [          1]]the plane's yaw is: 1.8864617208626608the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        188]
+ [          1]]the plane's yaw is: 1.8931345502522332the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.8931345502522332the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.8931345502522332the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.9035896519806723the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9035896519806723the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9035896519806723the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9031720618393755the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9031720618393755the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9031720618393755the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.914858446517263the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.914858446517263the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.914858446517263the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.912006125846181the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.912006125846181the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.912006125846181the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.9197435835984094the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        186]
+ [          1]]the plane's yaw is: 1.9197435835984094the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        186]
+ [          1]]the plane's yaw is: 1.9197435835984094the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        186]
+ [          1]]the plane's yaw is: 1.9189031283047537the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        187]
+ [          1]]the plane's yaw is: 1.9189031283047537the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        187]
+ [          1]]the plane's yaw is: 1.9189031283047537the plane's position is: [0, 0, 25]the target in pixel is: [[        916]
+ [        187]
+ [          1]]the plane's yaw is: 1.9081085185196738the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        187]
+ [          1]]the plane's yaw is: 1.9081085185196738the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        187]
+ [          1]]the plane's yaw is: 1.9081085185196738the plane's position is: [0, 0, 25]the target in pixel is: [[        917]
+ [        187]
+ [          1]]the plane's yaw is: 1.9092078963902335the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.9092078963902335the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.9092078963902335the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.9196055392411093the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.9196055392411093the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.9196055392411093the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.9167422513153891the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.9167422513153891the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.9167422513153891the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.905247644582067the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.905247644582067the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.905247644582067the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.9037905792382102the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.9037905792382102the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.9037905792382102the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        187]
+ [          1]]the plane's yaw is: 1.903488711514745the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.903488711514745the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.903488711514745the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        187]
+ [          1]]the plane's yaw is: 1.9057151238110404the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9057151238110404the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9057151238110404the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9017693559315543the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9017693559315543the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9017693559315543the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8998012701657159the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.8998012701657159the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.8998012701657159the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.9038581709053854the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9038581709053854the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9038581709053854the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8974992195752the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8974992195752the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8974992195752the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9010537723687035the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        185]
+ [          1]]the plane's yaw is: 1.9010537723687035the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        185]
+ [          1]]the plane's yaw is: 1.9010537723687035the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        185]
+ [          1]]the plane's yaw is: 1.901649490990911the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.901649490990911the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.901649490990911the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        186]
+ [          1]]the plane's yaw is: 1.8973294953492026the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.8973294953492026the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.8973294953492026the plane's position is: [0, 0, 25]the target in pixel is: [[        919]
+ [        186]
+ [          1]]the plane's yaw is: 1.9011241952565057the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9011241952565057the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.9011241952565057the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8987338105824334the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8987338105824334the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8987338105824334the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        187]
+ [          1]]the plane's yaw is: 1.8984164456513264the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.8984164456513264the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.8984164456513264the plane's position is: [0, 0, 25]the target in pixel is: [[        918]
+ [        188]
+ [          1]]the plane's yaw is: 1.902537123360906the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        188]
+ [          1]]the plane's yaw is: 1.902537123360906the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        188]
+ [          1]]the plane's yaw is: 1.902537123360906the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        188]
+ [          1]]the plane's yaw is: 1.9025362292912342the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        189]
+ [          1]]the plane's yaw is: 1.9025362292912342the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        189]
+ [          1]]the plane's yaw is: 1.9025362292912342the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        189]
+ [          1]]the plane's yaw is: 1.9014766673233847the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        190]
+ [          1]]the plane's yaw is: 1.9014766673233847the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        190]
+ [          1]]the plane's yaw is: 1.9014766673233847the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        190]
+ [          1]]the plane's yaw is: 1.9057996729996542the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.9057996729996542the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.9057996729996542the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        192]
+ [          1]]the plane's yaw is: 1.9030725518849232the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9030725518849232the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9030725518849232the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.901169226565633the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.901169226565633the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.901169226565633the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.900669680037771the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.900669680037771the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.900669680037771the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9025787274029597the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9025787274029597the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9025787274029597the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9013421396401264the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9013421396401264the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9013421396401264the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9004617790367941the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9004617790367941the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.9004617790367941the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        194]
+ [          1]]the plane's yaw is: 1.901925132670675the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        194]
+ [          1]]the plane's yaw is: 1.901925132670675the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        194]
+ [          1]]the plane's yaw is: 1.901925132670675the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        194]
+ [          1]]the plane's yaw is: 1.9005482355740404the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9005482355740404the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9005482355740404the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.898504213490758the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        195]
+ [          1]]the plane's yaw is: 1.898504213490758the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        195]
+ [          1]]the plane's yaw is: 1.898504213490758the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        195]
+ [          1]]the plane's yaw is: 1.9000255028393607the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9000255028393607the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9000255028393607the plane's position is: [0, 0, 25]the target in pixel is: [[        920]
+ [        195]
+ [          1]]the plane's yaw is: 1.9012540141728262the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.9012540141728262the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.9012540141728262the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8955588499691822the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8955588499691822the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8955588499691822the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8966137329724173the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8966137329724173the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the plane's yaw is: 1.8966137329724173the plane's position is: [0, 0, 25]the target in pixel is: [[        921]
+ [        196]
+ [          1]]the final coordinate is:[-4.335324119380354, 7.83624874049229, 0.0]
+the final number is['93', '46', '84']
+middle_num is: 84
+true_location is: -3.8, 6.6
